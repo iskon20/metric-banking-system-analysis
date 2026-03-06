@@ -17,8 +17,8 @@ Submission Date: March 7, 2026
 
 | Name | Student ID | Group | Role | Contact |
 |------|------------|--------|------|---------|
-| Dadabaev Iskandar | 202490094 | I24D | Team Leader & Project Developer | [Telegram](https://t.me/IDnoksi) |
-| Muratov Shaxrux | 202490201 | I24D | Process Analyst | [Telegram](https://t.me/dothdc) |
+| Dadabaev Iskandar | 202490094 | I24D | Project Developer | [Telegram](https://t.me/IDnoksi) |
+| Muratov Shaxrux | 202490201 | I24D | Team Leader & Process Analyst | [Telegram](https://t.me/dothdc) |
 | Fayzullayev Shokhruh | 202490117 | I24D | System Designer | [Telegram](https://t.me/Shokhruh23) |
 | Babaev Akmal | 202490071 | I24C | Database Designer | [Telegram](https://t.me/lixali) |
 | Kenesbaeva Gulsevar | 202490164 | I24D | UI/UX Designer | [Telegram](https://t.me/gulsevarkr) |
